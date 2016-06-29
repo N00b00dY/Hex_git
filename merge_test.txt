@@ -8,5 +8,3 @@ Ich hab local etwas anderes hinzu gefügt
 
 Ich hab online bei github was hinzu gefügt
 
-
-Ok schauen wir ob .idea noch erscheint
