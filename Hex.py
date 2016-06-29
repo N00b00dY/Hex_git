@@ -13,6 +13,8 @@ Hex Game
 
 
 # und mal einen hier unten
+#aasasasa
+
 
 COLOR_THEMES = {"standard":
                 {"color_1": "#f42525",
