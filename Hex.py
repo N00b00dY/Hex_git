@@ -11,6 +11,9 @@ from time import sleep
 Hex Game
 """
 
+
+# und mal einen hier unten
+
 COLOR_THEMES = {"standard":
                 {"color_1": "#f42525",
                  "color_2": "#2a67cb",
