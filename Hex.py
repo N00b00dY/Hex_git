@@ -5,6 +5,7 @@ import random
 from helpers import Node
 from time import sleep
 
+# hauen wir hier mal ein kommi rein
 
 """
 Hex Game
